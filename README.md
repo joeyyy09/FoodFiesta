@@ -1,4 +1,4 @@
-# Food Delivery Website 🍔🍟🚚
+# FoodFiesta -  Food Delivery Website 🍔🍟🚚
 
 This is a food delivery website built using ReactJS, Tailwind CSS, NodeJS, Firebase, Express, REST APIs, Redux, and authentication implemented using Google authentication. Users can browse through a variety of food items, add them to cart, and place an order. Administrators can add new dishes to the menu as well. 🍕🍝
 
