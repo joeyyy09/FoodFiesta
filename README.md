@@ -1,8 +1,8 @@
-# Food Delivery Website
+# Food Delivery Website 🍔🍟🚚
 
-This is a food delivery website built using ReactJS, Tailwind CSS, NodeJS, Firebase, Express, REST APIs, Redux, and authentication implemented using Google authentication. Users can browse through a variety of food items, add them to cart, and place an order. Administrators can add new dishes to the menu as well.
+This is a food delivery website built using ReactJS, Tailwind CSS, NodeJS, Firebase, Express, REST APIs, Redux, and authentication implemented using Google authentication. Users can browse through a variety of food items, add them to cart, and place an order. Administrators can add new dishes to the menu as well. 🍕🍝
 
-## Table of Contents
+## Table of Contents 📜
 
 - [Getting Started](#getting-started)
 - [Features](#features)
@@ -11,7 +11,7 @@ This is a food delivery website built using ReactJS, Tailwind CSS, NodeJS, Fireb
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
@@ -38,13 +38,13 @@ REACT_APP_FIREBASE_MEASUREMENT_ID=your_measurement_id
 ```
 
 5. Run `npm start` to start the development server.
-6. Navigate to `http://localhost:3000` in your web browser to view the website.
+6. Navigate to http://localhost:3000 in your web browser to view the website.
 
 ### Building
 
-To build the website for production, run `npm run build`. This will create an optimized production build in the `build` directory.
+To build the website for production, run `npm run build`. This will create an optimized production build in the `build` directory. 🏗️
 
-### Deployment
+## Deployment 🚀
 
 To deploy the website, follow these steps:
 
@@ -53,9 +53,9 @@ To deploy the website, follow these steps:
 3. Run `npm run build` to create a production build.
 4. Deploy the production build to Firebase hosting using the Firebase CLI.
 
-For more information, see the [Firebase documentation](https://firebase.google.com/docs/hosting).
+For more information, see the Firebase documentation. 📖
 
-### Features
+## Features 🌟
 
 - Authentication using Google authentication.
 - Home page with a slider and featured dishes.
@@ -63,7 +63,7 @@ For more information, see the [Firebase documentation](https://firebase.google.c
 - Add to cart page where users can add dishes to cart and place an order.
 - Administrator page where administrators can add new dishes to the menu.
 
-### Technologies Used
+## Technologies Used 💻
 
 - ReactJS
 - Tailwind CSS
@@ -73,7 +73,7 @@ For more information, see the [Firebase documentation](https://firebase.google.c
 - REST APIs
 - Redux
 
-### Contributing
+## Contributing 🤝
 
 If you would like to contribute to this project, please follow these steps:
 
@@ -83,6 +83,6 @@ If you would like to contribute to this project, please follow these steps:
 4. Push your changes to your forked repository.
 5. Create a pull request to merge your changes into the main repository.
 
-### License
+## License 📝
 
-This project is licensed to Harshith Mente
+This project is licensed to Harshith Mente.
